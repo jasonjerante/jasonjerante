@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jasonjerante
 - 👀 I’m interested in: Python, Automation, Web Scraping, Business Processes, AWS Cloud Computing, Business Intelligence, Random Raspberry Pi projects
 - 🌱 I’m currently proficient in: Python, VB, JavaScript and C#
+- Last updated on: 25/02/2024
 
 
 <!---
